@@ -1,2 +1,2 @@
 # games
-games I made, or collaborated on
+games I made or collaborated on
